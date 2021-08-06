@@ -33,12 +33,12 @@ codeblocks animation h&r.cbp
 Build, Run and Enjoy!
 ```
 
-![Screenshot-1](./animation%20h&r/sc1(cgv).png)
-![Screenshot-2](./animation%20h&r/sc2(cgv).png)
-![Screenshot-3](./animation%20h&r/sc3(cgv).png)
-![Screenshot-4](./animation%20h&r/sc4(cgv).png)
-![Screenshot-5](./animation%20h&r/sc5(cgv).png)
-![Screenshot-6](./animation%20h&r/sc6(cgv).png)
-![Screenshot-7](./animation%20h&r/sc7(cgv).png)
-![Screenshot-8](./animation%20h&r/sc8(cgv).png)
+![Screenshot-1](./sc1(cgv).png)
+![Screenshot-2](./sc2(cgv).png)
+![Screenshot-3](./sc3(cgv).png)
+![Screenshot-4](./sc4(cgv).png)
+![Screenshot-5](./sc5(cgv).png)
+![Screenshot-6](./sc6(cgv).png)
+![Screenshot-7](./sc7(cgv).png)
+![Screenshot-8](./sc8(cgv).png)
 
