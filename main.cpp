@@ -182,21 +182,6 @@ void sleeping_body2()
     glPopMatrix();
     /**-------------------------------------Body Ends----------------------------**/
 
-    /**-------------------------------------Eye starts---------------------------
-    glColor3f(.5,.5,.1);
-    glPushMatrix();
-    glScalef(.2,0.2,0.2);
-    //glTranslatef(1000, 500, 0);
-    glTranslatef(78, 300, 0);
-
-    glBegin(GL_LINE_LOOP);
-        glVertex2i(200, 350);
-        glVertex2i(220, 345);
-        glVertex2i(230, 360);
-    glEnd();
-    glPopMatrix();
-    /**-------------------------------------Eye ends---------------------------**/
-
 
 
     /**....................................Leg1 starts........................**/
@@ -747,59 +732,7 @@ void my_control_func()
 
 
 
-//void Walk (void)
-//{
-//    static float da1 = 1.0,da2 = 1.0,da3=1.0;
-//    if(counter<5000)
-//    {
-//
-//        angle1=160;
-//        angle2=200;
-//        angle3=155;
-//
-//    }else if(counter>58300)
-//    {
-//        angle1=168;
-//        angle2=178;
-//        angle3=155;
-//    }
-//    else{
-//    angle1 += da1;
-//    angle2 += da2;
-//    angle3+=da3;
-//
-//
-//    if (angle1 >  170.0)
-//    {
-//        da1 = -.050;
-//    }
-//
-//    if (angle1 < 140.0)
-//    {
-//        da1 =  .050;
-//    }
-//
-//    if (angle2 >  170.0)
-//    {
-//        da2 = -.050;
-//    }
-//    if (angle2 < 140.0)
-//    {
-//        da2 = .05;
-//    }
-//    if (angle3 >  200.0)
-//    {
-//        da3 = -.050;
-//    }
-//    if (angle3 < 120.0)
-//    {
-//        da3 = .05;
-//    }
-//
-//    glutPostRedisplay ();
-//    }
-//}
-//
+
 
 
 void starting()
@@ -965,18 +898,7 @@ void display()
 
 
 
-   // if(counter>0&& counter<10000)
-     //   hare();
-
-
-//    int kk=1,ii;
-//    for (ii=0;ii<25;ii++){
-//    glPushMatrix();
-//    glTranslatef(kk-600*ii*.5, -10, 0);
-//    kk=kk*.05;
-//    cloud();
-//    glPopMatrix();
-//    }
+  
 
     texts();
 
